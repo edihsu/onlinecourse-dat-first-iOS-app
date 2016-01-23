@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "8b01c59df58e51ff508d9c870f251117"
+build_time: [506547921, 292874000]
+inputs:
+  "/Users/edihsu/Documents/Udemy Online Course/SuperCool/SuperCool/ViewController.swift": [506547920, 0]
+  "/Users/edihsu/Documents/Udemy Online Course/SuperCool/SuperCool/AppDelegate.swift": [506546395, 0]
